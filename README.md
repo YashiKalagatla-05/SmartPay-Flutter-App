@@ -20,10 +20,11 @@ Flutter, Dart, Firebase Auth, Firestore, Razorpay API, Provider, Lottie
 3. (Optional) Run `flutter pub get`
 4. Run `flutter run`
 
-## 📸 Screenshots (add later)
+## 📸 Screenshots
 | Login | Dashboard | Rewards |
-|-------|-----------|---------|
-| <img src="assets/screenshots/login.png" width="200"/> | <img src="assets/screenshots/home.png" width="200"/> | <img src="assets/screenshots/rewards.png" width="200"/> |
+|-------|------------|---------|
+| <img src="assets/screenshots/login.png" width="230"/> | <img src="assets/screenshots/dashboard.png" width="230"/> | <img src="assets/screenshots/rewards.png" width="230"/> |
+width="200"/> |
 
 ## 👩‍💻 Developer
 **Yashwika Kalagatla**  
